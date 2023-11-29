@@ -54,7 +54,7 @@ namespace TestProject.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Customers");
+                    b.ToTable("Kullanicilar");
                 });
 #pragma warning restore 612, 618
         }
